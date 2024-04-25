@@ -1,3 +1,5 @@
+## Minor project
+
 # StckoBot
 
 StcoBot is a web application designed to help users analyze stocks, cryptocurrencies, and access the latest news related to financial markets. This project is built using HTML/CSS for frontend design and Django framework for backend development, with Python for additional functionalities and JavaScript for interactive features.
@@ -77,6 +79,4 @@ Contributions are welcome! If you'd like to contribute to StcoBot, please follow
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
