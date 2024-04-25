@@ -1,4 +1,4 @@
-# StcoBot
+# StckoBot
 
 StcoBot is a web application designed to help users analyze stocks, cryptocurrencies, and access the latest news related to financial markets. This project is built using HTML/CSS for frontend design and Django framework for backend development, with Python for additional functionalities and JavaScript for interactive features.
 
